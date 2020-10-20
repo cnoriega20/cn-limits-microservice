@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "cn-limits-service.minimun",
+      "type": "java.lang.String",
+      "description": "Description for cn-limits-service.minimun."
+    },
+    {
+      "name": "cn-limits-service.maximum",
+      "type": "java.lang.String",
+      "description": "Description for cn-limits-service.maximum."
+    },
+    {
+      "name": "cn-limits-service.minimun",
+      "type": "java.lang.String",
+      "description": "Description for cn-limits-service.minimun."
+    }
+  ] }
